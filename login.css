@@ -1,0 +1,15 @@
+.login { 
+	height:110px;
+	width:190px;
+	margin:auto;
+	border:1px #000 solid;
+    padding:50px;
+    margin-top:30px;
+	border-radius: 2px;
+	background-image: url(../Project/img2.png);
+}
+
+.login input { 
+	padding:5px;
+	margin:5px;
+ }
